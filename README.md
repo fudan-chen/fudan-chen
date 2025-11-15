@@ -15,7 +15,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/fudan-chen/fudan-chen/assets/images/fdu-logo.svg" />
 
-- [复旦大学](https://www.fudan.edu.cn/) &emsp; 📌 2024-09 —— now
+- [复旦大学](https://www.fudan.edu.cn/) &emsp; 📌 2024-09 —— 2027-06
 
   - 专业：precision servo-control
   - 内容：RL、LLM、Modern Control Theory
