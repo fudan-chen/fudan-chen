@@ -20,9 +20,13 @@
 
 ### 🏢 Work Experience
 
+<img align="right" width="88" src="https://pjlab-adg.github.io/assets/img/ADLab.svg" alt="Shanghai AI Lab" />
+
 - 上海 AI Lab &emsp; 📌 2025-09 —— 2026-06
 
   - 实习项目：interns1-pro、interns2、internvl-u
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/taobao.svg" alt="Taobao" />
 
 - 阿里巴巴淘天 &emsp; 📌 2026-06 —— 2026-10
 
